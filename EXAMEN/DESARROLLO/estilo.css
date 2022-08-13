@@ -1,0 +1,48 @@
+
+.encabezado{
+    width: 15%;
+    margin: 0 auto;
+}
+.encabezado h1{
+    font-size: 45px;
+    text-align: center;
+    font-family: arial;
+}
+.menuprincipal{
+    display: inline-block;
+    width: 100%;
+}
+.menuprincipal li{
+    float: left;
+    list-style: none;
+    padding: 8px;
+}
+.Lenguaje{
+    width: 100%;
+}
+.Lenguaje h2{
+    text-align: center;
+}
+.Lenguaje ol{
+    width: 30%;
+    margin: 0 auto;
+}
+.programacion{
+    width: 100%;
+}
+.programacion table{
+    width: 100%;
+    padding: 10px;
+}
+.Formulario{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.Formulario input{
+    margin: 20px;
+}
+footer{
+    text-align: center;
+}
